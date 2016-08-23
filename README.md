@@ -1,1 +1,1 @@
-# redis_atomiclong
+采用redis生成自增主键
